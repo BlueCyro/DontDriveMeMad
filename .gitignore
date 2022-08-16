@@ -39,7 +39,7 @@ bld/
 [Ll]ogs/
 
 # Exclude SymlinkedLibraries
-[Ss]ymlinked[Ll]ibraries/
+*.dll
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
